@@ -1,6 +1,3 @@
-ReprResearchPeerAssessmentProject
-=================================
-
 # MOST HARMFUL AND DESTRUCTIVE ATMOSPHERIC EVENTS IN THE US IN THE 1950-2011 PERIOD  
 ===========================================================================================
 
@@ -57,7 +54,7 @@ str(data)
 ```
 
 ```
-## 'data.frame':  902297 obs. of  9 variables:
+## 'data.frame':	902297 obs. of  9 variables:
 ##  $ STATE     : Factor w/ 72 levels "AK","AL","AM",..: 2 2 2 2 2 2 2 2 2 2 ...
 ##  $ BGN_DATE  : Factor w/ 16335 levels "1/1/1966 0:00:00",..: 6523 6523 4242 11116 2224 2224 2260 383 3980 3980 ...
 ##  $ EVTYPE    : chr  "TORNADO" "TORNADO" "TORNADO" "TORNADO" ...
